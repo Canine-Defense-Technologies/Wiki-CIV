@@ -16,19 +16,23 @@
 
 ### UART
 
-JST GH 6-pin
+**Connector Type:** JST GH 6-pin
 
 <figure><img src="../.gitbook/assets/UART IO Schematic.png" alt=""><figcaption></figcaption></figure>
 
 ### USB
 
-JST GH 4-Pin
+**Connector Type:** JST GH 4-Pin
 
 
+
+<figure><img src="../.gitbook/assets/USB IO Schematic.png" alt=""><figcaption></figcaption></figure>
 
 ### CAN BUS
 
+**Connector Type:** JST GH 4-Pin
 
+<figure><img src="../.gitbook/assets/CAN BUS IO Schematic.png" alt=""><figcaption></figcaption></figure>
 
 
 
