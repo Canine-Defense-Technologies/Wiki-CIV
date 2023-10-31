@@ -6,13 +6,7 @@
 
 
 
-
-
-
-
 ## IO Pinouts
-
-
 
 ### UART
 
@@ -44,6 +38,14 @@
 
 {% hint style="info" %}
 There are 4 PWM Outputs on the connector board (Numbered 1 through 4).
+{% endhint %}
+
+## Flight Batt
+
+**Connector Type:** XT-30 Female
+
+{% hint style="warning" %}
+This is unregulated power directly from the flight battery! Do not pull exceed 5 amps continuously or 8 amps burst currents.
 {% endhint %}
 
 ## Gerber Files
