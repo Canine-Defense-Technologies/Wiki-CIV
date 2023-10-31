@@ -38,6 +38,14 @@
 
 ### PWM (1-4)
 
+**Connector Type:** JST GH 3-Pin
+
+<figure><img src="../.gitbook/assets/PWM IO Schematic.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+There are 4 PWM Outputs on the connector board (Numbered 1 through 4).
+{% endhint %}
+
 ## Gerber Files
 
 ### PCB Fab Specifications
