@@ -8,17 +8,17 @@
 
 ## Gerber Files
 
+### PCB Fab Specifications
 
+|               |        |
+| ------------- | ------ |
+| PCB Thickness | 1.2 mm |
+|               |        |
+|               |        |
 
-|               |        |   |
-| ------------- | ------ | - |
-| PCB Thickness | 1.2 mm |   |
-|               |        |   |
-|               |        |   |
+### Gerber File
 
-
-
-
+{% embed url="https://drive.google.com/file/d/15yGzmYnBwSNRk8nLHRvMF4qbwZ0yDygx/view?usp=sharing" %}
 
 ## Bills of Material
 
