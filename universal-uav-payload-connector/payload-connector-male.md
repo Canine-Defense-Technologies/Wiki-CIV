@@ -22,7 +22,7 @@ JST GH 6-pin
 
 ### USB
 
-
+JST GH 4-Pin
 
 
 
