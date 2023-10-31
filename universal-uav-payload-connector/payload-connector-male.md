@@ -6,6 +6,34 @@
 
 
 
+
+
+
+
+## IO Pinouts
+
+
+
+### UART
+
+JST GH 6-pin
+
+<figure><img src="../.gitbook/assets/UART IO Schematic.png" alt=""><figcaption></figcaption></figure>
+
+### USB
+
+
+
+
+
+### CAN BUS
+
+
+
+
+
+### PWM (1-4)
+
 ## Gerber Files
 
 ### PCB Fab Specifications
