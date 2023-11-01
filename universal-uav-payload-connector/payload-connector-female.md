@@ -1,10 +1,6 @@
 # Payload Connector (Female)
 
-
-
-<figure><img src="../.gitbook/assets/20231030_235255.jpg" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/20231101_004029.jpg" alt=""><figcaption></figcaption></figure>
 
 ## IO Pinouts
 
