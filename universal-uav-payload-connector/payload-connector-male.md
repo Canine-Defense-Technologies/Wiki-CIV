@@ -48,7 +48,7 @@ There are 4 PWM Outputs on the connector board (Numbered 1 through 4).
 This is unregulated power directly from the flight battery! Do not pull exceed 5 amps continuously or 8 amps burst currents.
 {% endhint %}
 
-## Gerber Files
+## Files
 
 ### PCB Fab Specifications
 

@@ -44,7 +44,7 @@ There are 4 PWM Outputs on the connector board (Numbered 1 through 4).
 
 **Connector Type:** XT-30 Male
 
-## Gerber Files
+## Files
 
 ### PCB Fab Specifications
 
